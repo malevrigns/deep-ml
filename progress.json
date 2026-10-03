@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:33:21.927Z",
+  "generated_at": "2026-10-03T12:58:02.392Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-10-03T12:32:48.606Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-10-03T12:57:29.439Z",
+      "last_pushed_at": "2026-10-03T12:57:29.439Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
